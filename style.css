@@ -1,0 +1,6 @@
+.state {
+    background-color: rgb(156, 229, 229);
+    border-left: 3px solid rgb(38, 64, 90);
+    width: 100px;
+    height: 150px;
+}
